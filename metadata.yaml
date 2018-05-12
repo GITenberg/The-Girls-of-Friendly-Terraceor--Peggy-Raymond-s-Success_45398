@@ -1,0 +1,34 @@
+_repo: The-Girls-of-Friendly-Terraceor--Peggy-Raymond-s-Success_45398
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Goss, John
+    birthdate: 1886
+    deathdate: 1963
+    gutenberg_agent_id: '7136'
+    url: http://www.gutenberg.org/2009/agents/7136
+covers:
+- cover_type: archival
+  image_path: 45398-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Smith, Harriet L. (Harriet Lummis)
+    alias: Smith, Harriet Lummis
+    gutenberg_agent_id: '25717'
+    url: http://www.gutenberg.org/2009/agents/25717
+description: ''
+gutenberg_issued: '2014-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45398'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Neighbors -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+title: The Girls of Friendly Terrace; or, Peggy Raymond's Success
+url: http://www.gutenberg.org/ebooks/45398
